@@ -41,7 +41,7 @@
         "platform": "wechat",
         "mobile": "19026066354"
       },
-      "token_expire": true,
+      "token_expire": false,
       "last_modou": 1950,
       "last_sign": "2025-07-08 00:00:11",
       "difference": 8,
@@ -107,4 +107,5 @@
   }
 
 }
+
 
