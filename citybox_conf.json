@@ -20,34 +20,6 @@
     "Accept-Encoding": "gzip, deflate, br"
   },
   "ACCOUNT_INFO": {
-    "18725569231": {
-      "token": "rmcqib6vb4gbi0nak2rtatebco71driq",
-      "cookie": {
-        "BoxToken": "rmcqib6vb4gbi0nak2rtatebco71driq",
-        "platform": "wechat",
-        "mobile": "18725569231"
-      },
-      "token_expire": false,
-      "last_modou": 797,
-      "last_sign": "2025-12-11 11:13:38",
-      "difference": 0,
-      "current_modou": 797,
-      "hassign": 1
-    },
-    "19026066354": {
-      "token": "uafda2biopoqcoa22nt1v9k7nhp16uki",
-      "cookie": {
-          "BoxToken": "uafda2biopoqcoa22nt1v9k7nhp16uki",
-        "platform": "wechat",
-        "mobile": "19026066354"
-      },
-      "token_expire": false,
-      "last_modou": 1950,
-      "last_sign": "2025-07-08 00:00:11",
-      "difference": 8,
-      "current_modou": 1958,
-      "hassign": 0
-    },
     "15195819117": {
       "token": "9b0avvfladrdbofojbbq0eats3lpi40r",
       "cookie": {
@@ -75,34 +47,6 @@
       "difference": 18,
       "current_modou": 317,
       "hassign": 1
-    },
-    "13818935168": {
-      "token": "9mlkinuqcduo6idf4o51ktohv9plb5jd",
-      "cookie": {
-        "BoxToken": "9mlkinuqcduo6idf4o51ktohv9plb5jd",
-        "platform": "wechat",
-        "mobile": "13818935168"
-      },
-      "token_expire": true,
-      "last_modou": 8359,
-      "last_sign": "2025-07-08 00:00:27",
-      "difference": 18,
-      "current_modou": 8377,
-      "hassign": 0
-    },
-    "17321234445": {
-      "token": "90dfj52vdo8po0p0eg2h4ma5hqme72a2",
-      "cookie": {
-        "BoxToken": "90dfj52vdo8po0p0eg2h4ma5hqme72a2",
-        "platform": "wechat",
-        "mobile": "17321234445"
-      },
-      "token_expire": true,
-      "last_modou": 10617,
-      "last_sign": "2025-07-01 03:51:21",
-      "difference": 63,
-      "current_modou": 10680,
-      "hassign": 0
     }
   }
 
